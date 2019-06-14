@@ -1,0 +1,1 @@
+<script type="text/javascript" src="{{url('theme/sites\all\themes\arvind\js\script-scrollr.js')}}"></script>

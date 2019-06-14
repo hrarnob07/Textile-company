@@ -1,0 +1,241 @@
+# Webalizer V2.23-08 Incremental Data - 01/07/2019 17:38:54
+2019 1 7 17 38 54
+57 57 4 52 0 0 37705239 1 1 1
+3 21 33 1 7
+33 33 37642286 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+24 24 62953 3 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+3 3 4110 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+33 33 37642286 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+21 21 58843 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+57
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/atcml/resources/views/frontEnd/pages/fibre_yarns.blade.php
+0 1 0 1017 0 0
+/home/atcml/app/Http/Controllers/ConsultancyController.php
+0 1 0 3570 0 0
+/home/atcml/app/Http/Controllers/IndexControllar.php
+0 1 0 9774 0 0
+/home/atcml/public_html/public.zip
+0 1 0 36567929 0 0
+/home/atcml/app/Http/Controllers/ManagementController.php
+0 1 0 3548 0 0
+/home/atcml/resources/views/frontEnd/pages/
+0 1 7473168 6973 1 0
+/home/atcml/app/Http/Controllers/FibreYarnsController.php
+0 1 0 3550 0 0
+/home/atcml/app/Http/Controllers/VisionMissionController.php
+0 1 0 5820 0 0
+/home/atcml/app/Http/Controllers/HomeController.php
+0 1 0 1338 0 0
+/home/atcml/resources/views/frontEnd/pages/processes.blade.php
+0 1 0 1015 0 0
+/home/atcml/app/Http/Controllers/Controller.php
+0 1 0 361 0 0
+/home/atcml/app/Http/Controllers/AboutUsController.php
+0 1 0 3501 0 0
+/home/atcml/laravel/resources/views/frontEnd/pages/processes.blade.php
+0 1 0 1015 0 0
+/home/atcml/app/Http/Controllers/DyesChemicalsController.php
+0 1 0 3619 0 0
+/home/atcml/resources/views/frontEnd/pages/ourselves.blade.php
+0 1 0 1061 0 0
+/home/atcml/laravel/resources/views/frontEnd/include/headercss.blade.php
+0 4 0 5499 0 0
+/home/atcml/app/Http/Controllers/TopManagementController.php
+0 1 0 3995 0 0
+/home/atcml/app/Http/Controllers/SustainabilityController.php
+0 1 0 3639 0 0
+/home/atcml/resources/views/frontEnd/pages/training_center.blade.php
+0 1 0 1006 0 0
+/home/atcml/app/Http/Controllers/ProductsServicesController.php
+0 1 0 3681 0 0
+/home/atcml/app/Http/Controllers/FutureFashionController.php
+0 1 18446744073709548440 3781 0 0
+/home/atcml/app/Http/Controllers/ContactController.php
+0 1 12 4218 0 0
+/home/atcml/resources/views/frontEnd/pages/consultancy.blade.php
+0 1 0 1032 0 0
+/home/atcml/resources/views/frontEnd/include/footer.blade.php
+0 2 0 7711 0 0
+/home/atcml/app/Http/Controllers/TechnicalTextileController.php
+0 1 0 3688 0 0
+/home/atcml/app/Http/Controllers/WovenFabricsController.php
+0 1 0 3597 0 0
+/home/atcml/resources/views/frontEnd/pages/technical_textile.blade.php
+0 1 0 1236 0 0
+/home/atcml/resources/views/admin/page/aboutus.blade.php
+0 1 0 9356 0 0
+/home/atcml/resources/views/frontEnd/pages/sus_overview.blade.php
+0 1 0 1082 0 0
+/home/atcml/resources/views/frontEnd/pages/sustainability.blade.php
+0 1 0 853 0 0
+/home/atcml/app/Http/Controllers/CategoryController.php
+0 1 0 2520 0 0
+/home/atcml/laravel/resources/views/frontEnd/pages/contact-us.blade.php
+0 1 0 9132 0 0
+/home/atcml/app/Http/Controllers/SubCategoryController.php
+0 1 0 3302 0 0
+/home/atcml/app/Http/Controllers/TrainingCenterController.php
+0 1 0 3642 0 0
+/home/atcml/resources/views/frontEnd/pages/products_services.blade.php
+0 1 0 1278 0 0
+/home/atcml/app/Http/Controllers/SiteSettingController.php
+0 1 0 4389 0 0
+/home/atcml/resources/views/frontEnd/pages/about_us.blade.php
+0 1 0 1061 0 0
+/home/atcml/resources/views/frontEnd/pages/futureFashion.blade.php
+0 1 0 1350 0 0
+/home/atcml/resources/views/frontEnd/pages/top_management.blade.php
+0 1 0 5852 0 0
+/home/atcml/app/Http/Controllers/CsrController.php
+0 1 0 5713 0 0
+/home/atcml/app/Http/Controllers/SustainabilityOverviewController.php
+0 1 0 3804 0 0
+/home/atcml/resources/views/frontEnd/pages/dyes_chemicals.blade.php
+0 1 0 1050 0 0
+/home/atcml/resources/views/frontEnd/pages/woven_fabrics.blade.php
+0 1 0 1231 0 0
+/home/atcml/resources/views/frontEnd/include/navbar.blade.php
+0 1 0 11096 0 0
+/home/atcml/resources/views/frontEnd/include/headercss.blade.php
+0 1 0 1389 0 0
+/home/atcml/routes/web.php
+0 1 0 10789 0 0
+/home/atcml/public_html/theme/images/favicon.png
+0 1 7473472 9689 0 0
+/home/atcml/public_html/theme/sites/default/files/advagg_css/css__shnCnXZ2tjGqW7a7lq6jsELELH0x1SI2uoKsXZu4WkU.css
+0 2 0 940760 0 0
+/home/atcml/app/Http/Controllers/ProcessesController.php
+0 1 0 3524 0 0
+/home/atcml/resources/views/frontEnd/pages/contact-us.blade.php
+0 1 0 9132 0 0
+/home/atcml/app/Http/Controllers/OurselvesController.php
+0 1 0 3549 0 0
+/home/atcml/app/Http/Controllers/SliderController.php
+0 1 0 2522 0 0
+# End Of Table - urls
+# -sites- (monthly)
+gprsd56.robi.com.bd
+0 18 18 47307 1 1546882646
+/home/atcml/resources/views/frontEnd/pages/
+116.58.205.234
+0 33 33 37642286 0 0
+-
+103.91.144.156
+0 3 3 4110 0 0
+-
+116.58.201.176
+0 3 3 11536 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+gprsd56.robi.com.bd
+0 18 18 47307 1 1546882646
+/home/atcml/resources/views/frontEnd/pages/
+103.91.144.156
+0 3 3 4110 0 0
+-
+116.58.201.176
+0 3 3 11536 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+atcml
+0 57 57 37705239 2 1546882646
+# End Of Table - usernames
